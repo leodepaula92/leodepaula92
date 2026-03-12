@@ -31,7 +31,7 @@ Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr Sou responsável
 ### 📖 Sobre Mim
 * 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) | Certificado: Engenharia de Software (FIAP).
 * 🚀 **Experiência:** Ampla trajetória como Professor e Coordenador de TI, com foco em Desenvolvimento Web, VPS e Marketing Digital.
-* 💡 **Projetos:** Recentemente desenvolvi o novo site `deltatopferramentas` e uma plataforma EAD customizada.
+* 💡 **Projetos:** Pagina pessoal [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://curriculum.leodepaula.workers.dev/) e uma plataforma EAD customizada.
 * 🎸 **Hobby & Social:** Músico multi-instrumentista (Violão e Bateria) e instrutor voluntário de Jiu-jitsu.
 
 ---
