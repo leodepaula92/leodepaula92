@@ -2,21 +2,24 @@
 
 ### Desenvolvedor Full Stack Jr | Analista de BI | Especialista em TI
 
-[cite_start]Atualmente atuo na **Guimepa** [cite: 11][cite_start], onde sou responsável pela manutenção de sistemas ERP em PHP e JS [cite: 14][cite_start], além de gerenciar e-commerces em Magento[cite: 21]. [cite_start]Desenvolvo dashboards estratégicos em **Power BI** [cite: 22] [cite_start]e possuo forte base em infraestrutura e redes[cite: 13].
+[cite_start]Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr[cite: 11, 17]. [cite_start]Sou responsável por toda a infraestrutura tecnológica, desde a manutenção de redes até o desenvolvimento de sistemas ERP e e-commerce utilizando **PHP, JS, React e MySQL**[cite: 14, 15, 18, 19]. [cite_start]Além disso, sou especialista em **BI**, criando dashboards estratégicos para tomada de decisão[cite: 16, 22].
 
 ---
 
 ### 🛠️ Tecnologias que trabalho
 
-**Linguagens e Frameworks**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-**Data & Design**
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=Google%20Ads&logoColor=white)
+**Backend & Infra**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Data Science & Design**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=Google%20Ads&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Estatísticas
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leodepaula92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,13 +28,15 @@
 
 ---
 
-### 📖 Sobre mim
-* [cite_start]🎓 **Educação:** Cursando ADS (Gran Faculdade) [cite: 9] [cite_start]e Engenharia de Software pela FIAP[cite: 46].
-* [cite_start]👨‍🏫 **Histórico:** Já atuei como Coordenador e Professor de TI[cite: 24, 31].
-* [cite_start]🎸 **Lado Social:** Músico (Violão/Bateria) e instrutor de Jiu-jitsu em projetos sociais[cite: 41].
+### 📖 Sobre Mim
+* [cite_start]🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) [cite: 9] [cite_start]e cursando Engenharia de Software (FIAP)[cite: 46].
+* [cite_start]🚀 **Experiência:** Ampla trajetória como Professor e Coordenador de TI, com foco em Desenvolvimento Web e Marketing Digital[cite: 24, 28, 31, 35].
+* [cite_start]💡 **Projetos:** Recentemente desenvolvi o novo site `deltatopferramentas.com.br` e uma plataforma EAD customizada[cite: 21, 30].
+* [cite_start]🎸 **Hobby & Social:** Músico multi-instrumentista (Violão e Bateria) e instrutor voluntário de Jiu-jitsu[cite: 41].
 
 ---
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodepaula@outlook.pt)
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodepaula@outlook.pt)
