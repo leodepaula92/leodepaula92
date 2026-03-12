@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack Jr | Analista de BI | Especialista em TI
 
-[cite_start]Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr[cite: 11]. [cite_start]Sou responsável por toda a infraestrutura tecnológica, desde a gestão de **servidores VPS** e redes até o desenvolvimento de sistemas ERP e e-commerce utilizando **PHP, JS, React e MySQL**[cite: 14, 15, 18, 19]. [cite_start]Além disso, sou especialista em **BI**, criando dashboards estratégicos para tomada de decisão[cite: 16, 22].
+Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr Sou responsável por toda a infraestrutura tecnológica, desde a gestão de **servidores VPS** e redes até o desenvolvimento de sistemas ERP e e-commerce utilizando **PHP, JS, React e MySQL**. Além disso, sou especialista em **BI**, criando dashboards estratégicos para tomada de decisão.
 
 ---
 
@@ -29,13 +29,13 @@
 ---
 
 ### 📖 Sobre Mim
-* [cite_start]🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) [cite: 9] [cite_start]e Engenharia de Software (FIAP)[cite: 46].
-* [cite_start]🚀 **Experiência:** Ampla trajetória como Professor e Coordenador de TI [cite: 24, 31][cite_start], com foco em Desenvolvimento Web, VPS e Marketing Digital[cite: 28, 35].
-* [cite_start]💡 **Projetos:** Recentemente desenvolvi o novo site `deltatopferramentas.com.br` [cite: 21] [cite_start]e uma plataforma EAD customizada[cite: 30].
-* [cite_start]🎸 **Hobby & Social:** Músico multi-instrumentista (Violão e Bateria) e instrutor voluntário de Jiu-jitsu[cite: 41].
+* 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) | Certificado: Engenharia de Software (FIAP).
+* 🚀 **Experiência:** Ampla trajetória como Professor e Coordenador de TI, com foco em Desenvolvimento Web, VPS e Marketing Digital.
+* 💡 **Projetos:** Recentemente desenvolvi o novo site `deltatopferramentas` e uma plataforma EAD customizada.
+* 🎸 **Hobby & Social:** Músico multi-instrumentista (Violão e Bateria) e instrutor voluntário de Jiu-jitsu.
 
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodepaula@outlook.pt)
