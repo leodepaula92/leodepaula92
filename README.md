@@ -34,6 +34,7 @@ Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr Sou responsável
 * 💡 **Projetos:** Pagina pessoal <a href="https://curriculum.leodepaula.workers.dev/">ACESSAR </a>
                     | Caderno Digital: <a href="https://leodepaula92.github.io/caderno-digital">ACESSAR </a>
                     | Desenvolvimento API: <a href="https://api-portfolio-f2nv.onrender.com/docs/">ACESSAR </a>
+* 📖 **Cetificações:** <a href="https://drive.google.com/drive/folders/1_GELTj891qVCVdpbEDdHc1AbpNijK9gi?usp=sharing">ACESSAR </a>.
 * 🎸 **Hobby & Social:** Músico multi-instrumentista (Violão, Teclado e Bateria...).
 
 ---
