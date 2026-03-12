@@ -32,8 +32,8 @@ Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr Sou responsável
 * 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) | Certificado: Engenharia de Software (FIAP).
 * 🚀 **Experiência:** Ampla trajetória como Professor e Coordenador de TI, com foco em Desenvolvimento Web, VPS e Marketing Digital.
 * 💡 **Projetos:** Pagina pessoal <a href="https://curriculum.leodepaula.workers.dev/">ACESSAR</a>
-                    e um Caderno Digital: <a href="https://leodepaula92.github.io/caderno-digital">ACESSAR</a>,
-                    Desenvolvimento API: <a href="https://api-portfolio-f2nv.onrender.com/docs/">ACESSAR</a>.
+                    | Caderno Digital: <a href="https://leodepaula92.github.io/caderno-digital">ACESSAR</a>,
+                    | Desenvolvimento API: <a href="https://api-portfolio-f2nv.onrender.com/docs/">ACESSAR</a>.
 * 🎸 **Hobby & Social:** Músico multi-instrumentista (Violão e Bateria) e instrutor voluntário de Jiu-jitsu.
 
 ---
