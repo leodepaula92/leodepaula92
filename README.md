@@ -29,10 +29,10 @@ Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr. Sou responsáve
 ---
 
 ### 📖 Sobre Mim
-* 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) e cursando Engenharia de Software (FIAP)[cite: 9, 46].
-* 🚀 **Experiência:** Ampla trajetória como Professor e Coordenador de TI, com foco em Desenvolvimento Web e Marketing Digital[cite: 24, 28, 31, 35].
-* 💡 **Projetos:** Recentemente desenvolvi o novo site `deltatopferramentas.com.br` e uma plataforma EAD customizada[cite: 21, 30].
-* 🎸 **Hobby & Social:** Músico multi-instrumentista (Violão e Bateria) e instrutor voluntário de Jiu-jitsu[cite: 41].
+* 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) | Certificação: Engenharia de Software (FIAP).
+* 🚀 **Experiência:** Ampla trajetória como Professor e Coordenador de TI, com foco em Desenvolvimento Web e Marketing Digital.
+* 💡 **Projetos:** Recentemente desenvolvi o novo site `deltatopferramentas.com.br` e uma plataforma EAD customizada.
+* 🎸 **Hobby & Social:** Músico multi-instrumentista (Violão e Bateria) e instrutor voluntário de Jiu-jitsu.
 
 ---
 
