@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack Jr | Analista de BI | Especialista em TI
 
-[cite_start]Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr[cite: 11, 17]. [cite_start]Sou responsável por toda a infraestrutura tecnológica, desde a manutenção de redes até o desenvolvimento de sistemas ERP e e-commerce utilizando **PHP, JS, React e MySQL**[cite: 14, 15, 18, 19]. [cite_start]Além disso, sou especialista em **BI**, criando dashboards estratégicos para tomada de decisão[cite: 16, 22].
+Atualmente atuo na **Guimepa** como Desenvolvedor Full Stack Jr. Sou responsável por toda a infraestrutura tecnológica, desde a manutenção de redes até o desenvolvimento de sistemas ERP e e-commerce utilizando **PHP, JS, React e MySQL**. Além disso, sou especialista em **BI**, criando dashboards estratégicos para tomada de decisão.
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ### 📖 Sobre Mim
-* [cite_start]🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) [cite: 9] [cite_start]e cursando Engenharia de Software (FIAP)[cite: 46].
+* 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (Gran Faculdade) e cursando Engenharia de Software (FIAP)[cite: 9, 46].
 * [cite_start]🚀 **Experiência:** Ampla trajetória como Professor e Coordenador de TI, com foco em Desenvolvimento Web e Marketing Digital[cite: 24, 28, 31, 35].
 * [cite_start]💡 **Projetos:** Recentemente desenvolvi o novo site `deltatopferramentas.com.br` e uma plataforma EAD customizada[cite: 21, 30].
 * [cite_start]🎸 **Hobby & Social:** Músico multi-instrumentista (Violão e Bateria) e instrutor voluntário de Jiu-jitsu[cite: 41].
@@ -37,6 +37,5 @@
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodepaula@outlook.pt)
